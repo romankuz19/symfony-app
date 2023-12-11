@@ -10,6 +10,7 @@
 5. Валидация формы 'Contact Us'
 <br>
 <img alt="image" height="400" src="https://github.com/romankuz19/symfony-app/assets/80103795/accab960-00da-4bf4-aa48-bc52b89fb2da" width="400"/>
+<br>
 6. Автоотправка писем на почту через mailer_dsn
 <br>
 <img alt="Снимок экрана 2023-12-11 223824" height="400" src="https://github.com/romankuz19/symfony-app/assets/80103795/600d95e7-5e0c-4368-9527-0213f276096a" width="400"/>
