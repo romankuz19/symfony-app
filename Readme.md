@@ -14,5 +14,6 @@
 6. Автоотправка писем на почту через mailer_dsn
 <br>
 <img alt="Снимок экрана 2023-12-11 223824" height="400" src="https://github.com/romankuz19/symfony-app/assets/80103795/600d95e7-5e0c-4368-9527-0213f276096a" width="400"/>
-<img alt="Снимок экрана 2023-12-11 223824" height="100" width="200" src="https://github.com/romankuz19/symfony-app/assets/80103795/1a227efd-0851-4ac1-a072-d6d185ce389a"/>
+<br>
+<img alt="Снимок экрана 2023-12-11 223824" height="100" width="300" src="https://github.com/romankuz19/symfony-app/assets/80103795/1a227efd-0851-4ac1-a072-d6d185ce389a"/>
 <img alt="Снимок экрана 2023-12-11 223824" src="https://github.com/romankuz19/symfony-app/assets/80103795/fedfc037-e50c-4815-9460-c14b6cb7c2dd"/>
