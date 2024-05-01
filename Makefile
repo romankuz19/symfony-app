@@ -6,7 +6,7 @@ install: up
 
 up:
 	@echo "Running docker-compose up -d..."
-	@docker-compose up -d
+	@docker-compose up -d --build
 
 .PHONY: migrations
 
